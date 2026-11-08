@@ -96,3 +96,4 @@ Console.WriteLine();
 Console.WriteLine ("3. Измененный порядок: ");
 FormatHero(level: 15, name: "Петя", color: "Черный", title: "Мастер");
 Console.WriteLine();
+
